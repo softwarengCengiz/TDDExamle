@@ -4,7 +4,7 @@
 //SOFTWARE ENGINERRING 2ND CLASS
 //HOMEWORK-1
 //SWE202 SOFTWARE VERIFICATION AND VALIDATION
-//REPOSITORY ADRESS:https://github.com/softwarengCengiz/TDDExampleJava
+//REPOSITORY ADRESS:https://github.com/softwarengCengiz/TDDExample
 
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
